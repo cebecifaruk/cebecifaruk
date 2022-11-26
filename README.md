@@ -4,9 +4,9 @@
 
 You can see my blog post on [cebecifaruk.com](https://cebecifaruk.com)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cebecifaruk&theme=radical&hide_border=true" />
-</p>
+<br/>
+<br/>
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
